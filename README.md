@@ -1,3 +1,25 @@
+# PWA-test-app
+
+notes and hacks from https://www.eventbrite.com/e/progressive-web-apps-a-day-of-talks-and-code-labs-tickets-31879507465
+
+
+## What is a Progressive Web App?
+A Progressive Web App is:
+Progressive
+Responsive
+Connectivity independent 
+App-like
+Fresh
+Safe
+Discoverable
+Re-engageable
+Installable
+Linkable
+
+
+
+
+
 # Your first Progressive Web App Code Lab
 
 These are the resource files needed for the [Your first Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp/)
