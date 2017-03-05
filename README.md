@@ -5,18 +5,23 @@ notes and hacks from https://www.eventbrite.com/e/progressive-web-apps-a-day-of-
 
 ## What is a Progressive Web App?
 A Progressive Web App is:
-Progressive
-Responsive
-Connectivity independent 
-App-like
-Fresh
-Safe
-Discoverable
-Re-engageable
-Installable
-Linkable
+* Progressive
+* Responsive
+* Connectivity independent 
+* App-like
+* Fresh
+* Safe
+* Discoverable
+* Re-engageable
+* Installable
+* Linkable
 
 
+### Also push notification 
+https://codelabs.developers.google.com/codelabs/push-notifications/index.html
+
+### and debugging
+https://developers.google.com/web/fundamentals/getting-started/codelabs/debugging-service-workers/
 
 
 
